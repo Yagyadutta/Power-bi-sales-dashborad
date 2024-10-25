@@ -16,3 +16,10 @@ The project involves the creation of an interactive **Sales Dashboard** using Po
 - **KPI Calculations**: Created dynamic KPIs such as sales growth, customer segmentation, and profit margins using advanced DAX functions.
 - **Efficiency Improvements**: Optimized the data model and DAX formulas, reducing report rendering time by **25%** and improving overall reporting efficiency by **30%**.
 - **Interactive Dashboard**: Designed a user-friendly interface to allow stakeholders to filter and drill down into the data for better insights.
+
+## How to Use the Project
+
+### Prerequisites
+- **Power BI Desktop**: Download and install Power BI Desktop from the [official website](https://powerbi.microsoft.com/desktop/).
+- **MySQL Database**: Ensure access to a MySQL database. Modify the provided SQL queries to match your database structure if necessary.
+- **CSV Files**: Sample CSV files are included in the `Data` folder. These should be placed in the same directory as the Power BI file or connected via Power Query.
